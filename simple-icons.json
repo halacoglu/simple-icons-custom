@@ -1,6 +1,11 @@
 #this file is in _data/simple-icons.json
 
 {
+    "title": "F1",
+    "hex": "E10600",
+    "source": "https://www.formula1.com/"
+},
+{
     "title": "MSI Business",
     "hex": "9A8555",
     "source": "https://www.msi.com/Business-Productivity"
