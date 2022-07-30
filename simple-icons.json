@@ -10,3 +10,8 @@ this file is in _data/simple-icons.json
     "hex": "9A8555",
     "source": "https://www.msi.com/Business-Productivity"
 },
+{
+    "title": "Norton",
+    "hex": "FFE01A",
+    "source": "https://static.nortoncdn.com/static/ngpcdn/static/ngp2022.3.14.8/dist/images/norton-black.svg"
+},
