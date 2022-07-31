@@ -15,3 +15,9 @@ this file is in _data/simple-icons.json
     "hex": "FFE01A",
     "source": "https://static.nortoncdn.com/static/ngpcdn/static/ngp2022.3.14.8/dist/images/norton-black.svg"
 },
+{
+    "title": "Windows 11",
+    "hex": "0078D4",
+    "source": "https://commons.wikimedia.org/wiki/File:Windows_logo_-_2021_(Black).svg",
+    "guidelines": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1voQq"
+},
